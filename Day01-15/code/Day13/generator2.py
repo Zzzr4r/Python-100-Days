@@ -15,5 +15,5 @@ def fib(num):
         n += 1
 
 
-for x in fib(20):
+for x in lib(20):
     print(x)
